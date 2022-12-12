@@ -1,6 +1,7 @@
-# Association_Algos 
+## Association_Algos 
 
-Implementation of different Algorithmns for Association Pairs
+* Showcasing the capabilities of pairing algorithms and comparing their performance in terms of time efficiency
+
 ```
 - Apriori
 - PCY
