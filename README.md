@@ -1,6 +1,6 @@
 ## Association_Algos 
 
-* Showcasing the capabilities of pairing algorithms and comparing their performance in terms of time efficiency on large datasets
+Project aims to showcase the capabilities of different pairing algorithms and compare their performance in terms of time efficiency when working with large datasets. The algorithms that are being evaluated include Apriori, PCY, SON, and Random Sampling. The results of this comparison can help to determine which algorithm is best suited for working with large datasets in different situations
 
 ```
 - Apriori
