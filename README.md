@@ -8,5 +8,5 @@ Project aims to showcase the capabilities of different pairing algorithms and co
 - SON 
 - Random Sampling
 ```
-![image](https://user-images.githubusercontent.com/78048789/207024109-d92b12f8-2d43-416b-b6ee-7988149bb215.png)
 
+![Algo](https://user-images.githubusercontent.com/78048789/211474450-2ada7c3b-d80d-4a8f-a6cf-38e5b88a4781.gif)
